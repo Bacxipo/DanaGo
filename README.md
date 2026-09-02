@@ -1,4 +1,4 @@
-# 🌴 DanaGo - SmartTrip Đà Nẵng
+# 🌴 DanaGo - Hệ thống hỗ trợ du lịch thông minh Đà Nẵng
 
 Ứng dụng hỗ trợ du lịch thông minh được xây dựng bằng **Flutter**, giúp du khách dễ dàng khám phá điểm đến, lên lịch trình cá nhân hóa và lựa chọn sở thích du lịch tại Đà Nẵng.
 
